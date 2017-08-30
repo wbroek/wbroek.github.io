@@ -1,0 +1,87 @@
+body {
+	background: #c1c1c1;
+	color: #606060;
+	font-family: 'Open Sans', sans-serif;
+}
+.main {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding: 80px 80px 60px 80px;
+	background: #fff;
+	box-shadow: 2px 2px 1px #606060;
+}
+h1 {
+	color: #E45C3F;
+	text-transform: uppercase;
+	font-size: 200%;
+	margin-bottom: 0px;
+}
+h1 small {
+	color: #c1c1c1;
+	font-size: 80%;
+	text-transform: uppercase;
+}
+h2 {
+	color: #E45C3F;
+	font-size: 150%;
+	margin-bottom: 15px;
+}
+h3 {
+	font-size: 130%;
+	margin: 0px;
+	font-weight: 300;
+	margin-bottom: 8px;
+}
+h4 {
+	font-size: 110%;
+	font-weight: 300;
+}
+.margintop {
+	margin-top: 40px;
+}
+.address {
+	margin-top: 20px;
+}
+.address .col-md-5 {
+	text-align: right;
+	padding-right: 0px;
+}
+.line {
+	padding-bottom: 80px;
+	border-bottom: 1px solid #c1c1c1;
+}
+.quote {
+	font-size: 180%;
+	margin-top: 80px;
+	padding: 0px 30px;
+	text-align: center;
+	font-weight: 300;
+}
+.title {
+	background: #dadada;
+	border-radius: 3px;
+	text-align: right;
+	font-size: 90%;
+	padding: 3px 5px;
+	margin-left: 20px;
+}
+.subtitle {
+	font-size: 70%;
+	font-weight: 300;
+	text-align: right;
+	margin-top: 7px;
+}
+.progress {
+	margin-bottom: 0px;
+}
+@media print {
+  a[href]:after {
+		content: "";
+	}
+}
+
+
+
+
+
+
